@@ -152,4 +152,6 @@
   (lib (name "dk_Addressable-Specialty")(type "KiCad")(uri "/home/raven/gitrepos/pcb/digikey-kicad-library/digikey-symbols/dk_Addressable-Specialty.kicad_sym")(options "")(descr ""))
   (lib (name "SN74AC74PW")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/SN74AC74PW/SN74AC74PW.kicad_sym")(options "")(descr ""))
   (lib (name "74LVC14AS14-13")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/ul_74LVC14AS14-13/KiCADv6/2023-06-05_12-04-22/2023-06-05_12-04-22.kicad_sym")(options "")(descr ""))
+  (lib (name "Logic")(type "KiCad")(uri "${KIPRJMOD}/Logic.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HCS21")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/SN74HCS21.kicad_sym")(options "")(descr ""))
 )
