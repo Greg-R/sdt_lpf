@@ -154,4 +154,5 @@
   (lib (name "74LVC14AS14-13")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/ul_74LVC14AS14-13/KiCADv6/2023-06-05_12-04-22/2023-06-05_12-04-22.kicad_sym")(options "")(descr ""))
   (lib (name "Logic")(type "KiCad")(uri "${KIPRJMOD}/Logic.kicad_sym")(options "")(descr ""))
   (lib (name "SN74HCS21")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/SN74HCS21.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HCS02")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/KiCADv6/SN74HCS02.kicad_sym")(options "")(descr ""))
 )

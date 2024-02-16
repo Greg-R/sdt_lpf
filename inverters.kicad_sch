@@ -384,9 +384,6 @@
     (pin "5" (uuid 46c58cab-6fce-4302-b16d-97795de8d986))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U13") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U13") (unit 1)
         )
@@ -397,7 +394,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 171.45 116.205 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4668c5bf-f975-410a-8941-4dff16e9954e)
-    (property "Reference" "U14" (at 182.88 112.2681 0)
+    (property "Reference" "U20" (at 182.88 112.2681 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 182.88 114.8081 0)
@@ -418,9 +415,6 @@
     (pin "5" (uuid 8eafc095-0b51-4227-8cf8-341e0900239c))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U20") (unit 1)
         )
@@ -431,7 +425,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 171.45 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6bdceec3-43dd-496d-9b24-c8caa8cc1c3d)
-    (property "Reference" "U14" (at 182.88 138.3031 0)
+    (property "Reference" "U22" (at 182.88 138.3031 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 182.88 140.8431 0)
@@ -452,9 +446,6 @@
     (pin "5" (uuid 597b047b-18b4-4c8d-8b3c-c592a28d059b))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U22") (unit 1)
         )
@@ -486,9 +477,6 @@
     (pin "5" (uuid 853ee021-1028-426f-a9a7-c3e07ba70f17))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U15") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U15") (unit 1)
         )
@@ -499,7 +487,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 100.965 89.535 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b69df692-1dd1-4809-b5a1-10581ca0c55c)
-    (property "Reference" "U13" (at 112.395 85.5981 0)
+    (property "Reference" "U17" (at 112.395 85.5981 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 112.395 88.1381 0)
@@ -520,9 +508,6 @@
     (pin "5" (uuid 5b448630-4170-4ddf-8dbe-5d654ca1aa63))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U13") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U17") (unit 1)
         )
@@ -554,9 +539,6 @@
     (pin "5" (uuid bd21db54-96ad-432e-afd1-1635c14c8a70))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U14") (unit 1)
         )
@@ -567,7 +549,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 172.085 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5889f79-dda6-4b4a-9e83-0a54271f3461)
-    (property "Reference" "U14" (at 183.515 59.5631 0)
+    (property "Reference" "U16" (at 183.515 59.5631 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 183.515 62.1031 0)
@@ -588,9 +570,6 @@
     (pin "5" (uuid ab24f17c-9f61-433f-96c4-89d23d7574ad))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U16") (unit 1)
         )
@@ -601,7 +580,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 171.45 89.535 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea4010c1-da55-45c2-b2c8-c2c3c471c2ab)
-    (property "Reference" "U15" (at 182.88 85.5981 0)
+    (property "Reference" "U19" (at 182.88 85.5981 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 182.88 88.1381 0)
@@ -622,9 +601,6 @@
     (pin "5" (uuid 02206d18-4960-4983-96d0-673df8de9ab6))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U15") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U19") (unit 1)
         )
@@ -635,7 +611,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 100.965 116.205 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec48d81d-09fd-4a67-89e9-8323ecf456df)
-    (property "Reference" "U14" (at 112.395 112.2681 0)
+    (property "Reference" "U18" (at 112.395 112.2681 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 112.395 114.8081 0)
@@ -656,9 +632,6 @@
     (pin "5" (uuid 05d22d5d-847b-4bbe-a288-c5b528ed08af))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U18") (unit 1)
         )
@@ -669,7 +642,7 @@
   (symbol (lib_id "74xGxx:74LVC1G04") (at 100.965 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff8a8a05-a3f7-42cc-8ec5-2d1b4526b109)
-    (property "Reference" "U14" (at 112.395 138.3031 0)
+    (property "Reference" "U21" (at 112.395 138.3031 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LVC1G04" (at 112.395 140.8431 0)
@@ -690,9 +663,6 @@
     (pin "5" (uuid bdfa893c-6567-4592-90d5-9ae9b95e1072))
     (instances
       (project "sdt_lpf"
-        (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9"
-          (reference "U14") (unit 1)
-        )
         (path "/528f45ff-5641-4aeb-93d2-897e9e2c12f9/529ea46e-ec6a-4e3f-bfde-20ef956dfb9e"
           (reference "U21") (unit 1)
         )
